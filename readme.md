@@ -4,7 +4,7 @@
 
 ## 👉 Visualizar Site: <a href='#'>Ver Site</a>
 
-### » Tecnologias utilizadas: HTML, CSS, SASS, JS.
+### » Tecnologias utilizadas: HTML, CSS, SASS, JS, PHP.
 
 ##
 
@@ -17,3 +17,4 @@
     <img src='./img/capa.jpg'/>
   </a>
 </div>
+
